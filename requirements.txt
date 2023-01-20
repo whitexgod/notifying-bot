@@ -11,7 +11,7 @@ idna==2.9
 itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
-mechanize==0.4.5
+mechanize==0.4.6
 PyJWT==1.7.1
 pytz==2020.1
 requests==2.23.0
